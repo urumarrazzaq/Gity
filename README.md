@@ -55,6 +55,9 @@ python gity.py
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve Gity.
 
+## Screenshot
+![Screenshot 2025-04-04 163401](https://github.com/user-attachments/assets/35b5ea4c-3cc6-4492-91e1-2e47df51b6b4)
+
 ## License
 MIT License
 
